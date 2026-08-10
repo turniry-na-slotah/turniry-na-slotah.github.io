@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: turniry-na-slotah.github.io
+Sitemap: https://turniry-na-slotah.github.io/sitemap.xml
